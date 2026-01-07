@@ -14,12 +14,6 @@ Sou Henry, **cientista de dados e desenvolvedor FullStack**, apaixonado por tran
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
         />
     </a>
-    <a href="https://github.com/henry842?tab=repositories&sort=stargazers">
-        <img 
-            alt="Projetos Destaque" 
-            title="Repositórios com mais destaque" 
-            src="https://custom-icon-badges.demolab.com/github/stars/henry842?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Projetos Destaque"
-        />
     </a>
     <a href="https://github.com/henry842?tab=followers">
         <img 
