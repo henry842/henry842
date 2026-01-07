@@ -15,18 +15,18 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/henry842O?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
+            src="https://custom-icon-badges.demolab.com/github/stars/henry842O?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/henry842O?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/henry842O?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -63,14 +63,11 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842O&show_icons=true&count_private=true&theme=tokyonight" />
 
-  <img align="left" alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842layout=compact&theme=tokyonight" />
+  <img align="left" alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842O&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
@@ -78,6 +75,6 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
 - [Email](mailto:seuemail@email.com)  
-- [GitHub](https://github.com/SEU_USUARIO)  
+- [GitHub](https://github.com/henry842O)  
 
 ✨ Sempre aprendendo, criando e compartilhando conhecimento. Vamos desenvolver projetos incríveis juntos!
