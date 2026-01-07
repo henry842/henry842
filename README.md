@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Henry [Rhuan]
+# 👨🏻‍💻 Henry [Seu Sobrenome]
 
 **`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
@@ -15,18 +15,18 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
         />
     </a>
-    <a href="https://github.com/henry842O?tab=repositories&sort=stargazers">
+    <a href="https://github.com/henry842?tab=repositories&sort=stargazers">
         <img 
             alt="Projetos Destaque" 
             title="Repositórios com mais destaque" 
-            src="https://custom-icon-badges.demolab.com/github/stars/henry842O?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Projetos Destaque"
+            src="https://custom-icon-badges.demolab.com/github/stars/henry842?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Projetos Destaque"
         />
     </a>
-    <a href="https://github.com/henry842O?tab=followers">
+    <a href="https://github.com/henry842?tab=followers">
         <img 
             alt="Comunidade GitHub" 
             title="Profissional ativo na comunidade" 
-            src="https://custom-icon-badges.demolab.com/github/followers/henry842O?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Comunidade&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/henry842?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Comunidade&logoColor=white"
         />
     </a>
 </p>
@@ -64,9 +64,9 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 ### 💎 Destaques do GitHub
 
 <p>
-  <img align="left" alt="Atividade no GitHub" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842O&show_icons=true&count_private=true&theme=tokyonight&title_color=00ffd5&icon_color=00ffd5" />
+  <img align="left" alt="Atividade no GitHub" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842&show_icons=true&count_private=true&theme=tokyonight&title_color=00ffd5&icon_color=00ffd5" />
 
-  <img align="left" alt="Principais Tecnologias" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842O&layout=compact&theme=tokyonight&title_color=00ffd5" />
+  <img align="left" alt="Principais Tecnologias" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842&layout=compact&theme=tokyonight&title_color=00ffd5" />
 </p>
 
 ---
@@ -75,6 +75,6 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
 - [Email](mailto:seuemail@email.com)  
-- [GitHub](https://github.com/henry842O)  
+- [GitHub](https://github.com/henry842)  
 
 ✨ Sempre aprendendo, criando e compartilhando conhecimento. Vamos desenvolver projetos incríveis juntos!
