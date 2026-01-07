@@ -1,8 +1,9 @@
-# 👨🏻‍💻 Henry [Rhuan]
+# 👨🏻‍💻 Henry [Seu Sobrenome]
 
 **`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
-Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com sólida experiência em Python, R, SQL e JavaScript. Além disso, crio **sites e aplicações web profissionais**, aplicando minhas habilidades em front-end e back-end. Apaixonado por transformar dados em insights e ideias em soluções inteligentes, compartilho conhecimento e projetos que unem **tecnologia e inteligência de negócio**.
+Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com sólida experiência em Python, R, SQL e JavaScript.  
+Também crio **sites e aplicações web profissionais**, aplicando minhas habilidades em front-end e back-end. Apaixonado por transformar dados em insights e ideias em soluções inteligentes, compartilho conhecimento e projetos que unem **tecnologia e inteligência de negócio**.
 
 ---
 
@@ -32,7 +33,7 @@ Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Tecnologias e Linguagens
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="R" title="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
@@ -49,10 +50,31 @@ Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+
+### 🌐 Sites e Projetos Web
+
+- Criação de **sites responsivos e profissionais**, aplicando HTML, CSS, JavaScript, TypeScript e React.  
+- Integração com **APIs, Node.js e banco de dados** para aplicações web completas.  
+- Desenvolvimento de **dashboards e visualizações interativas** utilizando Python, SQL e ferramentas de Analytics.  
+- Projetos reais hospedados no GitHub Pages ou plataformas de cloud.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
   <img align="left" alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- [Email](mailto:seuemail@email.com)  
+- [GitHub](https://github.com/SEU_USUARIO)  
+
+✨ Sempre aprendendo, criando e compartilhando conhecimento. Vamos desenvolver projetos incríveis juntos!
