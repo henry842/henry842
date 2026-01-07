@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Henry Rhuan
+# 👨🏻‍💻 Henry [Seu Sobrenome]
 
 **`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
@@ -11,15 +11,21 @@ Sou Henry, **cientista de dados e desenvolvedor FullStack**, apaixonado por tran
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
+            src="https://img.shields.io/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white" 
         />
     </a>
+    <a href="https://github.com/henry842?tab=repositories&sort=stargazers">
+        <img 
+            alt="Projetos Destaque" 
+            title="Repositórios com mais destaque" 
+            src="https://img.shields.io/github/stars/henry842?color=55960c&label=Projetos%20Destaque" 
+        />
     </a>
     <a href="https://github.com/henry842?tab=followers">
         <img 
-            alt="Comunidade GitHub" 
+            alt="Seguidores GitHub" 
             title="Profissional ativo na comunidade" 
-            src="https://custom-icon-badges.demolab.com/github/followers/henry842?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Comunidade&logoColor=white"
+            src="https://img.shields.io/github/followers/henry842?color=236ad3&label=Seguidores&logo=github" 
         />
     </a>
 </p>
@@ -73,13 +79,13 @@ Sou Henry, **cientista de dados e desenvolvedor FullStack**, apaixonado por tran
 
 <p>
   <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@email.com">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-Henry-blue?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Henry-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/henry842">
-    <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Henry-black?logo=github&logoColor=white&style=for-the-badge" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Henry-black?logo=github&logoColor=white" />
   </a>
 </p>
 
