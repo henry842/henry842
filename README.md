@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Henry [Seu Sobrenome]
+# 👨🏻‍💻 Henry [Rhuan]
 
 **`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
@@ -17,16 +17,16 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
     </a>
     <a href="https://github.com/henry842O?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/henry842O?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
+            alt="Projetos Destaque" 
+            title="Repositórios com mais destaque" 
+            src="https://custom-icon-badges.demolab.com/github/stars/henry842O?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Projetos Destaque"
         />
     </a>
     <a href="https://github.com/henry842O?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/henry842O?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Comunidade GitHub" 
+            title="Profissional ativo na comunidade" 
+            src="https://custom-icon-badges.demolab.com/github/followers/henry842O?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Comunidade&logoColor=white"
         />
     </a>
 </p>
@@ -61,12 +61,12 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 💎 Destaques do GitHub
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842O&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="Atividade no GitHub" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842O&show_icons=true&count_private=true&theme=tokyonight&title_color=00ffd5&icon_color=00ffd5" />
 
-  <img align="left" alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842O&layout=compact&theme=tokyonight" />
+  <img align="left" alt="Principais Tecnologias" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842O&layout=compact&theme=tokyonight&title_color=00ffd5" />
 </p>
 
 ---
