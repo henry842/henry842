@@ -1,36 +1,58 @@
-# Olá, eu sou Henry 👋
+# 👨🏻‍💻 Henry [Rhuan]
 
-Sou **Programador e Cientista de Dados** com 5 anos de experiência em transformar dados em insights e ideias em soluções reais. Apaixonado por tecnologia, automação e aprendizado de máquina.
+**`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
----
-
-## 💻 Sobre mim
-- 🔹 Especialista em **Python, SQL, R e frameworks modernos**  
-- 🔹 Experiência com **Machine Learning, IA, análise de dados e visualização**  
-- 🔹 Gosto de construir **aplicações web e pipelines de dados eficientes**  
+Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com sólida experiência em Python, R, SQL e JavaScript. Além disso, crio **sites e aplicações web profissionais**, aplicando minhas habilidades em front-end e back-end. Apaixonado por transformar dados em insights e ideias em soluções inteligentes, compartilho conhecimento e projetos que unem **tecnologia e inteligência de negócio**.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p align="left">
+    <a href="https://www.linkedin.com/in/seu-linkedin">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" 
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true)
+### 🤖 Linguagens e Tecnologias
 
----
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="R" title="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [Email](mailto:seuemail@email.com)  
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
 
-✨ Sempre aprendendo, sempre criando. Se quiser colaborar ou trocar ideias, meu GitHub está aberto!
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+  <img align="left" alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
