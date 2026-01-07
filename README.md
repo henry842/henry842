@@ -2,8 +2,7 @@
 
 **`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
 
-Sou Henry, profissional formado em **Ciência de Dados e Machine Learning**, com sólida experiência em Python, R, SQL e JavaScript.  
-Também crio **sites e aplicações web profissionais**, aplicando minhas habilidades em front-end e back-end. Apaixonado por transformar dados em insights e ideias em soluções inteligentes, compartilho conhecimento e projetos que unem **tecnologia e inteligência de negócio**.
+Sou Henry, **cientista de dados e desenvolvedor FullStack**, apaixonado por transformar dados em insights e ideias em soluções web inteligentes. Tenho experiência sólida em **Python, R, SQL e JavaScript**, e crio **sites e aplicações web profissionais**, unindo **tecnologia e inteligência de negócio**.
 
 ---
 
@@ -54,10 +53,15 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 ### 🌐 Sites e Projetos Web
 
-- Criação de **sites responsivos e profissionais**, aplicando HTML, CSS, JavaScript, TypeScript e React.  
-- Integração com **APIs, Node.js e banco de dados** para aplicações web completas.  
-- Desenvolvimento de **dashboards e visualizações interativas** utilizando Python, SQL e ferramentas de Analytics.  
-- Projetos reais hospedados no GitHub Pages ou plataformas de cloud.
+- Criação de **sites responsivos e profissionais** usando HTML, CSS, JavaScript, TypeScript e React.  
+- Integração com **APIs, Node.js e bancos de dados** para aplicações web completas.  
+- Desenvolvimento de **dashboards e visualizações interativas** com Python, SQL e ferramentas de Analytics.  
+- Projetos reais hospedados em GitHub Pages ou plataformas de cloud.  
+
+**Projetos em destaque:**  
+- [Dashboard de Vendas](https://github.com/henry842/dashboard-vendas) – Visualização interativa com Python, SQL e Plotly.  
+- [Portfolio Web](https://github.com/henry842/portfolio) – Site responsivo em React e TypeScript.  
+- [API de Dados](https://github.com/henry842/api-dados) – Backend Node.js com integração a banco de dados SQL.
 
 ---
 
@@ -73,8 +77,16 @@ Também crio **sites e aplicações web profissionais**, aplicando minhas habili
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [Email](mailto:seuemail@email.com)  
-- [GitHub](https://github.com/henry842)  
+<p>
+  <a href="https://www.linkedin.com/in/seu-linkedin">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/Email-Henry-blue?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/henry842">
+    <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Henry-black?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ✨ Sempre aprendendo, criando e compartilhando conhecimento. Vamos desenvolver projetos incríveis juntos!
