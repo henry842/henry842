@@ -1,92 +1,128 @@
-# 👨🏻‍💻 Henry [Seu Sobrenome]
+<div align="center">
 
-**`Cientista de Dados | Programador FullStack | Desenvolvedor Web`**
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Henry&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20SaaS%20Builder&descAlignY=60&descColor=a0aec0"/>
 
-Sou Henry, **cientista de dados e desenvolvedor FullStack**, apaixonado por transformar dados em insights e ideias em soluções web inteligentes. Tenho experiência sólida em **Python, R, SQL e JavaScript**, e crio **sites e aplicações web profissionais**, unindo **tecnologia e inteligência de negócio**.
+<!-- Badges de visitas e seguidores -->
+<a href="https://github.com/henry842">
+  <img src="https://komarev.com/ghpvc/?username=henry842&color=00d4ff&style=flat-square&label=Visualizações+do+perfil" alt="profile views"/>
+</a>
 
----
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/seu-linkedin">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white" 
-        />
-    </a>
-    <a href="https://github.com/henry842?tab=repositories&sort=stargazers">
-        <img 
-            alt="Projetos Destaque" 
-            title="Repositórios com mais destaque" 
-            src="https://img.shields.io/github/stars/henry842?color=55960c&label=Projetos%20Destaque" 
-        />
-    </a>
-    <a href="https://github.com/henry842?tab=followers">
-        <img 
-            alt="Seguidores GitHub" 
-            title="Profissional ativo na comunidade" 
-            src="https://img.shields.io/github/followers/henry842?color=236ad3&label=Seguidores&logo=github" 
-        />
-    </a>
-</p>
+</div>
 
 ---
 
-### 💻 Tecnologias e Linguagens
+## 🧠 Sobre mim
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="R" title="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+Sou **Cientista de Dados e Desenvolvedor Web** com foco em transformar dados brutos em produtos inteligentes e lucrativos.
 
-<br/>
-<br/>
+Trabalho com o ciclo completo: da coleta e limpeza de dados até o deploy de modelos em produção e a criação de interfaces funcionais para usuários finais. Também desenvolvo **SaaS** com foco em automação e analytics.
+
+- 🔬 Especialista em **Machine Learning** supervisionado e não-supervisionado
+- 🏗️ Construo pipelines robustos com **feature engineering**, **validação cruzada** e **tuning de hiperparâmetros**
+- 🌐 Desenvolvo aplicações web completas com **Flask**, **Streamlit** e ferramentas no-code/low-code
+- 📊 Transformo análises complexas em **dashboards interativos** e **insights acionáveis**
+- 🚀 Busco oportunidades como **CLT** e **projetos freelance**
 
 ---
 
-### 🌐 Sites e Projetos Web
+## 🛠️ Stack & Ferramentas
 
-- Criação de **sites responsivos e profissionais** usando HTML, CSS, JavaScript, TypeScript e React.  
-- Integração com **APIs, Node.js e bancos de dados** para aplicações web completas.  
-- Desenvolvimento de **dashboards e visualizações interativas** com Python, SQL e ferramentas de Analytics.  
-- Projetos reais hospedados em GitHub Pages ou plataformas de cloud.  
+### 🤖 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=f89820)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=00d4ff)
+![CatBoost](https://img.shields.io/badge/CatBoost-0d1117?style=for-the-badge&logo=yandex&logoColor=ffcc00)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d4ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00d4ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4dabcf)
 
-**Projetos em destaque:**  
-- [Dashboard de Vendas](https://github.com/henry842/dashboard-vendas) – Visualização interativa com Python, SQL e Plotly.  
-- [Portfolio Web](https://github.com/henry842/portfolio) – Site responsivo em React e TypeScript.  
-- [API de Dados](https://github.com/henry842/api-dados) – Backend Node.js com integração a banco de dados SQL.
+### 🗄️ Dados & Analytics
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=google-colab&logoColor=f9ab00)
+
+### 🌐 Desenvolvimento Web & SaaS
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00d4ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
 ---
 
-### 💎 Destaques do GitHub
+## 🚀 Projetos em Destaque
 
-<p>
-  <img align="left" alt="Atividade no GitHub" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=henry842&show_icons=true&count_private=true&theme=tokyonight&title_color=00ffd5&icon_color=00ffd5" />
+> Seleção dos projetos mais relevantes por área. Veja todos os repositórios abaixo.
 
-  <img align="left" alt="Principais Tecnologias" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842&layout=compact&theme=tokyonight&title_color=00ffd5" />
-</p>
+### 📊 Data Science & Machine Learning
+
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| [🏥 Hypothyroid Pipeline](https://github.com/henry842/hypothyroid-pipeline) | Pipeline completo de ML para previsão de hipotireoidismo com dados clínicos reais | Python, Scikit-Learn, SHAP |
+| [🚢 Titanic CatBoost](https://github.com/henry842/titanic-catboost-pipeline) | Pipeline Kaggle com K-Fold Target Encoding, pseudo-labeling e threshold tuning | CatBoost, Feature Engineering |
+| [🚗 Car Purchase XGBoost](https://github.com/henry842/CarPurchaseXGBoost) | Previsão de propensão à compra com XGBoost e análise exploratória completa | XGBoost, Pandas, Seaborn |
+| [🛒 PredictBuy E-commerce](https://github.com/henry842/PredictBuy-Previs-o-de-Inten-o-de-Compra-em-E-commerce) | Sistema inteligente de previsão de intenção de compra online | Random Forest, Scikit-Learn |
+| [👥 Customer Segmentation](https://github.com/henry842/customer-segmentation-kmeans) | Segmentação de clientes com K-Means, Elbow Method e Silhouette Score | K-Means, Clustering |
+| [🍷 VinEye Wine Quality](https://github.com/henry842/VinEye-O-Olho-Digital-do-Sommelier) | Previsão de qualidade de vinhos com Random Forest e otimização de hiperparâmetros | Random Forest, GridSearchCV |
+| [🔥 Fire Detection](https://github.com/henry842/cross_validation_fire_detection) | Detecção de incêndios com dados ambientais e validação cruzada | Logistic Regression, CV |
+| [💳 Credit Score](https://github.com/henry842/Projeto-de-Credit-Score) | Previsão de inadimplência com EDA, encoding e balanceamento de dados | Decision Tree, Naive Bayes |
+| [📈 Sales Dashboard DKids](https://github.com/henry842/dkidsfantasias-dashboard) | Dashboard interativo com análise de vendas e previsão de faturamento | Jupyter, Plotly, Pandas |
+
+### 🌐 Desenvolvimento Web & SaaS
+
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| [🎯 Calculadora Surebet](https://github.com/henry842/Calculadora-de-Surebet) | App de apostas seguras com cálculo automático de stakes (Futebol, LoL, CS2) | Python, Streamlit |
+| [🎮 LoL Champion Calculator](https://github.com/henry842/lol-champion-calculator) | Análise estatística de times de LoL com comparação de campeões | Flask, Python |
+| [🏆 ProScore CS](https://github.com/henry842/ProScore-CS) | Comparador de times de CS com base em estatísticas de mapas | Python, Flask |
+| [💰 Controle Banca Pro](https://github.com/henry842/controle-banca-pro) | Dashboard para gerenciamento de banca esportiva com ROI e lucros | HTML, CSS, JavaScript |
 
 ---
 
-### 📫 Contato
+## 📈 GitHub Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Henry-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Henry-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/henry842">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Henry-black?logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-✨ Sempre aprendendo, criando e compartilhando conhecimento. Vamos desenvolver projetos incríveis juntos!
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry842&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry842&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henry842&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="streak stats"/>
+</div>
+
+---
+
+## 🎯 Áreas de Expertise
+
+```
+📌 Machine Learning        ██████████████████░░  90%
+📌 Análise Exploratória    ██████████████████░░  90%
+📌 Feature Engineering     █████████████████░░░  85%
+📌 SQL & Analytics         ████████████████░░░░  80%
+📌 Streamlit / Flask       ███████████████░░░░░  75%
+📌 Visualização de Dados   ███████████████░░░░░  75%
+📌 SaaS Development        █████████████░░░░░░░  65%
+```
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/seu-linkedin-aqui)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:seu-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/henry842)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+</div>
