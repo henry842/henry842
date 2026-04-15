@@ -249,7 +249,7 @@ Dashboard completo para gerenciamento de banca esportiva: lucros, ROI e stake re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/seu-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/henry-souza-santos)
 [![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:seu-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-henry842-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/henry842)
 
