@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Henry&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20SaaS%20Builder&descAlignY=62&descColor=a0aec0&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Henry&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20SaaS%20Builder&descAlignY=62&descColor=a0aec0&descSize=22"/>
 
 <a href="https://github.com/henry842">
   <img src="https://komarev.com/ghpvc/?username=henry842&color=00d4ff&style=flat-square&label=Visualizações+do+perfil"/>
